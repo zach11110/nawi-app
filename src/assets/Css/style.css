@@ -1,0 +1,15 @@
+.right-to-left {
+    direction: rtl;
+  }
+  .left-to-right {
+    direction: ltr;
+  }
+  input[type="file"] {
+    /* أضف أنماط CSS المخصصة هنا */
+    background-color: white;
+    color: #333;
+    border: 1px solid #ccc;
+  
+    padding: 8px;
+    border-radius: 5px;
+  }
